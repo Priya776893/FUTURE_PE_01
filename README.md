@@ -59,8 +59,10 @@ Step 1: 5 Topics → 3 Titles (ChatGPT)
 Step 2: Outline → 1123-word Script → 3 Thumbnail Concepts
 Step 3: Script Validation (Pacing: 9:42 perfect)
 Step 4: DALL·E Thumbnail → Canva Polish
-Step 5: Pictory.ai → Final MP4
-Full documentation: https://www.notion.so/PROMPT-CHAIN-DOCUMENTATION-2d92e950756d8033b438edea46b34baf?source=copy_link
+Step 5: Pictory.ai → Final video
+
+
+Full documentation notion link : https://www.notion.so/PROMPT-CHAIN-DOCUMENTATION-2d92e950756d8033b438edea46b34baf?source=copy_link
 
 📁 Files Structure
 text
